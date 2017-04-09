@@ -1,4 +1,5 @@
 # Extended Kalman Filter Project
+By: Chris Gundling, chrisgundling@gmail.com
 Self-Driving Car Engineer Nanodegree Program
 
 ---
@@ -27,7 +28,7 @@ Self-Driving Car Engineer Nanodegree Program
 ## Results
 Two Laser and Radar location files were provided for this project. The RSME and traking path over the measurements is shown for both cases in the figures below.
 
-# Simulation
+## Simulation
 A simulator was also provided and the final results from the simulator are shown in the figure below. Both Lidar (Kalman Filter) and Radar (Extended Kalman Filter) were used to track the vehicle through its path. 
 
-<img src="output_images/SimulatorResults.png" width="400">
+<img src="output_images/SimulatorResults.png" width="800">
