@@ -28,7 +28,7 @@ Self-Driving Car Engineer Nanodegree Program
     - eg. `./ExtendedKF ../data/sample-laser-radar-measurement-data-1.txt output.txt`
 
 ## Results
-Two Laser and Radar datasets were provided for this project. The RSME and tracking path over the measurements is shown for both cases in the figures below. I created a Matlab script ('./output_images/PlottingTool.m') to visualize the results. In general the predicitons follow the ground truth closely, but there are a couple areas at the most non-linear section so the figure eight path where the predictions deviate. 
+Two Laser and Radar datasets were provided for this project. The RSME and tracking path over the measurements is shown for both cases in the figures below. I created a Matlab script ('./output_images/PlottingTool.m') to visualize the results. In general the predictions follow the ground truth closely, but there are a couple areas at the most non-linear sections of the figure eight path where the predictions deviate. 
 
 ### Dataset 1 - Path follows a figure eight
 ```
