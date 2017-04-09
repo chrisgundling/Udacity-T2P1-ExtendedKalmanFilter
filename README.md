@@ -39,7 +39,7 @@ Accuracy - RMSE:
 0.5442
  ```
  
-<img src="output_images/Vehicle.png" width="300">
+<img src="output_images/Data1.png" width="500">
 
 ### Dataset 2 - Path follows an S-curve
 ```
@@ -50,7 +50,7 @@ Accuracy - RMSE:
 0.8108
 ```
 
-<img src="output_images/Non-Vehicle.png" width="300">
+<img src="output_images/Data2.png" width="500">
 
 ## Simulation
 A simulator was also provided and the final results from the simulator are shown in the figure below. Both Lidar (Kalman Filter) and Radar (Extended Kalman Filter) were used to track the vehicle through its path. 
