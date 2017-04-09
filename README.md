@@ -55,4 +55,4 @@ Accuracy - RMSE:
 ## Simulation
 A simulator was also provided and the final results from the simulator are shown in the figure below. Both Lidar (Kalman Filter) and Radar (Extended Kalman Filter) were used to track the vehicle through its path. 
 
-<img src="output_images/SimulatorResults.png" width="800">
+<img src="output_images/SimulatorResults.png" width="500">
